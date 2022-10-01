@@ -1,3 +1,3 @@
-# Simple-JS-Project
+# Color-Picker
 
 You can select any two colors and get the rgb color effect according to the selected color.
