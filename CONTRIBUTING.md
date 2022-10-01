@@ -1,0 +1,1 @@
+https://developers.google.com/blockly/guides/contribute/get-started/write_a_good_pr
